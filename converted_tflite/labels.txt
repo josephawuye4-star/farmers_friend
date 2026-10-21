@@ -1,0 +1,4 @@
+0 Maize_Healthy
+1 Maize_Common_Rust
+2 Maize_Northern_Leaf_Blight
+3 Maize_Gray_Leaf_Spot
